@@ -1,0 +1,118 @@
+body {
+    text-align: justify;
+    margin: 0;
+    padding: 60px;
+    font-family: "Poppins", sans-serif;
+    min-height: 100vh;
+    letter-spacing: -0.025em;
+   
+}
+
+
+
+.cabeçalho {
+    display: flex;
+
+
+}
+
+h3 {
+    text-align: center;
+    
+}
+
+.candidato {
+    border-radius: 60px;
+    margin: 10px;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+}
+
+header {
+    border-radius: 40px;
+    padding-bottom: 80px;
+    height: 170px;
+    color: white;
+    background-color: black;
+}
+
+.nome {
+    align-items: center;
+    justify-content: center;
+    margin-left: 20px;
+    width: 60%;
+    font-size: 15px;
+}
+
+
+
+.contato {
+    padding-top: 65px;
+    margin-right: 1500px;
+    font-size: 15px;
+}
+
+.historia {
+    display: block;
+
+    align-items: end;
+    width: 100px;
+    height: 500px;
+    gap: 50px;
+    text-align: center;
+    flex: 1;
+    padding: 5px;
+
+}
+
+.formação {
+    
+    width: 92.5vw;
+    padding: 10px;
+
+
+}
+
+.content {
+
+    display: flex;
+    width: 800px;
+    flex: 2;
+    height: 500px;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.cotainer {
+    display: flex;
+    align-items: flex-start;
+}
+
+.post {
+    margin: 10px;
+    padding: 40px;
+}
+
+button {
+    background-color: antiquewhite;
+    border-color: bisque;
+    border-radius: 50px;
+    font-family: "Poppins", sans-serif;
+    margin-left: 1400px;
+    text-decoration: none;
+}
+button a{
+    text-decoration: none;
+    color: black;
+}
+
+button:hover{
+     
+    transform: translateY(-4px);
+    transition:0.9s;
+    background-color: yellow;
+    border-color: yellow;
+ 
+    
+}
