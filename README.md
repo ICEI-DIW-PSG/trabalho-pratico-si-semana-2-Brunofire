@@ -3,9 +3,10 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Bruno Henrique Guedes Da Cruz
+- Matricula:2536509
 
 ## Print da tela da página criada (Curriculum Vitae)
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
+![alt text](image.png)
